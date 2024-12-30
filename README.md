@@ -26,9 +26,9 @@
 # 📊 GitHub Stats:
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=m0nt34&theme=dark&hide_border=false&include_all_commits=true&count_private=false" 
-       alt="GitHub Stats" style="height: 180px; width:auto;" />
+       alt="GitHub Stats" style="height: 165px; width:auto;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m0nt34&theme=dark&hide_border=false" 
-       alt="GitHub Streak Stats" style="height: 180px; width:auto;" />
+       alt="GitHub Streak Stats" style="height: 165px; width:auto;" />
 </div>
 
 
